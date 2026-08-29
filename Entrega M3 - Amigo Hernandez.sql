@@ -13,7 +13,7 @@ DROP TABLE IF EXISTS Categorias;
 CREATE TABLE Categorias(
 Id_categoria INT NOT NULL PRIMARY KEY,
 Nombre_categoria varchar(50) NOT NULL,
-Descripcion varchar(200),
+Descripcion varchar(200)
 );
 
 --Crear Tabla de Clientes
@@ -22,7 +22,7 @@ Id_cliente	INT	NOT NULL PRIMARY KEY,
 Nombre VARCHAR(100) NOT NULL,
 Email VARCHAR(100) UNIQUE,
 Ciudad VARCHAR(50),
-Fecha_registro DATE NOT NULL,
+Fecha_registro DATE NOT NULL
 );
 
 --Crear Tabla de Productos
