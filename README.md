@@ -1,2 +1,5 @@
-# Entrega-M3---Amigo-H
-Creación Base de datos Ventas_Tech_DB - Entrega Módulo 3
+# RetailPro:  Empresa distribuidora de tecnología 
+Definición del problema de negocio 
+¿Qué  categorías  de  productos  presentan  el  mejor  desempeño  actual  y  mayores 
+oportunidades  de  crecimiento,  y  deberían  ser  consideradas  prioritarias  en  la  estrategia 
+comercial de RetailPro? 
